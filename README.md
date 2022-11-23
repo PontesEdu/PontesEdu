@@ -21,4 +21,4 @@
  
 </div>
 
-![Snake animation](https://github.com/PontesEdu/PontesEdu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PontesEdu/EduardoPontes/blob/output/github-contribution-grid-snake.svg)
