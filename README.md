@@ -1,6 +1,6 @@
-#👋Olá! sou Eduardo Pontes
+#👋Olá! sou Eduardo Pontes 👩🏻‍💻
 
-**👩🏻‍💻 `Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Eduardo Pontes, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou muito curioso e esforçado, e estou sempre aprendendo e evoluindo por meio de cursos da internet, Alura e da Rocketseat, buscando adquirir conhecimento e crescer na área.
 
