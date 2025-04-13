@@ -125,7 +125,7 @@ Me chamo Eduardo Pontes, tenho 19 anos e sou de São Paulo. Atualmente, estou cu
 <br/>
 <br/>
 
-### 📊 Estatísticas 
+### 📊 Estatísticas: 
 
 <p>
   <img 
