@@ -140,7 +140,6 @@ Me chamo Eduardo Pontes, tenho 19 anos e sou de São Paulo. Atualmente, estou cu
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="360px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PontesEdu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
