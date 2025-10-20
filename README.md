@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eduardo Pontes, tenho 19 anos e sou de São Paulo. Sou muito curioso e esforçado, e estou sempre aprendendo e evoluindo por meio de cursos da internet, Alura e da Rocketseat, buscando adquirir conhecimento e crescer na área.
+Me chamo Eduardo Pontes, tenho 19 anos. atualmente morando em São Paulo. Sou muito curioso e esforçado, e estou sempre aprendendo e evoluindo por meio de cursos da internet, buscando adquirir conhecimento e crescer na área.
 
 <p align="left">
     <a href="https://github.com/PontesEdu?tab=repositories&sort=stargazers">
