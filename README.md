@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eduardo Pontes, tenho 19 anos. atualmente morando em São Paulo. Estou sempre me esforçando e aprendendo cada vez mais, evoluindo todos os dias.
+Me chamo Eduardo Pontes, tenho 19 anos. atualmente Estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Aprendendo e evoluindo constantemente
 
 ---
 
