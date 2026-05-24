@@ -1,5 +1,5 @@
-# Eduardo Pontes 
+# Eduardo Pontes
 
-#Software Developer focused on web applications, integrations and automation. 
+Software Developer focused on modern web applications, integrations and automation.
 
-React.js • Next.js • TypeScript • Node.js
+Tech Stack: React.js • Next.js • TypeScript • Node.js
