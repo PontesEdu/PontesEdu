@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo Pontes
+# Olá, eu sou o Eduardo 👋
 
 ### Software Developer
 
@@ -19,75 +19,109 @@ Building web applications, integrations and practical software solutions.
 <a href="mailto:edupontessilva03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
+<a href="https://github.com/PontesEdu">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
----
+<br />
 
-## About
+## 📌 Sobre mim
 
-I'm a Software Developer focused on web development, integrations and
-practical solutions for real-world problems.
+Sou Software Developer focado em desenvolvimento fullstack. Atualmente trabalho com TypeScript, React, Next.js e Node.js, enquanto continuo aprofundando meus conhecimentos em arquitetura de software, novos frameworks, experiência do usuário e automações com IA aplicadas ao desenvolvimento.
 
-I currently work with TypeScript, React, Next.js and Node.js, while
-continuing to deepen my knowledge of backend development, software
-architecture, UX and AI-assisted development.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na **FIAP**, onde participo de projetos práticos e challenges em parceria com empresas, trabalhando em equipe para desenvolver soluções para problemas reais.
 
----
+<br />
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,postgres,prisma,docker,git" alt="Tech Stack" />
 </p>
 
----
+<br />
 
-## Currently
-
-- 💻 Working with software development and technical support at NEOiD
-- 🌱 Deepening my knowledge of TypeScript, React, Next.js and Node.js
-- 🧩 Exploring backend development and software architecture
-- 🤖 Exploring AI-assisted development workflows
-- 🎓 Studying Systems Analysis and Development at FIAP
-
----
+## 📊 GitHub Stats
 
 ## GitHub
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=PontesEdu&show_icons=true&hide_border=true&theme=transparent" height="160" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PontesEdu&layout=compact&hide_border=true&theme=transparent" height="160" />
 </p>
+<br />
 
----
+## 🚀 Featured Work
 
-## Featured Work
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PontesEdu/NEOiD-PTZ-Deck-Elgato">
+        <strong>NEOiD PTZ Deck</strong>
+      </a>
+      <br />
+      Controle de câmeras PTZ e integração de rede e protocolos.
+      <br />
+      <sub><b>Stack:</b> TypeScript · Node.js · SDK Elgato</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PontesEdu/03-api-solid">
+        <strong>Gym Check-in API</strong>
+      </a>
+      <br />
+      API REST para check-ins e autenticação de academia.
+      <br />
+      <sub><b>Stack:</b> Node.js · Pisma ORM, PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PontesEdu/05-nest-clean">
+        <strong>Fórum com NestJS</strong>
+      </a>
+      <br />
+      API de um fórum organizada em Clean Architecture e DDD, com autenticação por JWT e testes unitários e de ponta a ponta separados.
+      <br />
+      <sub><b>Stack:</b> NestJS · Prisma, PostgreSQL · Typescript</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PontesEdu/nnc-transportes-website">
+        <strong>NNC Transportes</strong>
+      </a>
+      <br />
+      Site institucional para uma transportadora de mudanças em São Paulo
+      <br />
+      <sub><b>Stack:</b> React · Next.js</sub>
+    </td>
+  </tr>
+</table>
 
-Some of the projects I have worked on:
+> 💡 Troque os links acima pelas URLs reais dos repositórios assim que estiverem públicos.
 
-- **NEOiD PTZ Deck** — PTZ camera control and network integration
-- **Gym Check-in API** — REST API focused on gym check-ins and authentication
-- **Fórum com NestJS** — Forum API built with NestJS, Prisma and PostgreSQL
-- **NNC Transportes** — Web project for a transport company
-
----
+<br />
 
 <div align="center">
 
-## Let's connect
+## 🤝 Let's connect
 
-I'm currently looking for **internship or Junior opportunities in Software Development**.
+Estou buscando oportunidades de **estágio ou vaga júnior em desenvolvimento
+de software**. Se quiser conversar, colaborar ou trocar uma ideia sobre
+tecnologia, será um prazer conversar.
 
-If you'd like to connect, collaborate or talk about technology, feel free to reach out.
-
-<p align="center">
+<p>
   <a href="https://eduardopontes.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-pontes-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:edupontessilva03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<sub>⭐ Se curtir o que vê por aqui, deixe uma estrela nos repositórios!</sub>
+
+</div>
