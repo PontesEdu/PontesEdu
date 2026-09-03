@@ -19,11 +19,6 @@ Building web applications, integrations and practical software solutions.
 <a href="mailto:edupontessilva03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;
-<a href="https://github.com/PontesEdu">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
 </div>
 
 <br />
